@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="btnSumar">Sumar</string>
+    <string name="btnReiniciar">Reiniciar</string>
+    <string name="tvContador">0</string>
+</resources>
